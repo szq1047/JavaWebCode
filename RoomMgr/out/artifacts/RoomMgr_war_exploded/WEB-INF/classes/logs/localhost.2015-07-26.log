@@ -1,0 +1,8 @@
+七月 26, 2015 10:58:36 下午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: contextInitialized()
+七月 26, 2015 10:58:36 下午 org.apache.catalina.core.ApplicationContext log
+信息: SessionListener: contextInitialized()
+七月 26, 2015 10:58:36 下午 org.apache.catalina.core.ApplicationContext log
+信息: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@18c6916')
+七月 26, 2015 10:58:42 下午 org.apache.catalina.core.ApplicationContext log
+信息: Initializing Spring root WebApplicationContext

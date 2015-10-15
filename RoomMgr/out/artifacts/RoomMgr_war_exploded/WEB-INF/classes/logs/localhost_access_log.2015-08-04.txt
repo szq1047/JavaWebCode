@@ -1,0 +1,9 @@
+127.0.0.1 - - [04/Aug/2015:22:25:13 +0800] "GET /ThreeJiLianMenu/index.jsp HTTP/1.1" 200 2473
+127.0.0.1 - - [04/Aug/2015:22:25:13 +0800] "GET /ThreeJiLianMenu/js/jquery-1.4.min.js HTTP/1.1" 200 69838
+127.0.0.1 - - [04/Aug/2015:22:25:17 +0800] "POST /ThreeJiLianMenu/getCity.do HTTP/1.1" 200 117
+127.0.0.1 - - [04/Aug/2015:22:25:19 +0800] "POST /ThreeJiLianMenu/getCountry.do HTTP/1.1" 200 198
+127.0.0.1 - - [04/Aug/2015:22:59:57 +0800] "GET /RoomMgr/Login.jsp HTTP/1.1" 200 1219
+127.0.0.1 - - [04/Aug/2015:23:00:03 +0800] "POST /RoomMgr/UserLogin.do HTTP/1.1" 500 2778
+127.0.0.1 - - [04/Aug/2015:23:12:00 +0800] "GET /RoomMgr/Login.jsp HTTP/1.1" 200 1219
+127.0.0.1 - - [04/Aug/2015:23:12:00 +0800] "GET /RoomMgr/images/Yosemite2.jpg HTTP/1.1" 200 1831151
+127.0.0.1 - - [04/Aug/2015:23:12:05 +0800] "POST /RoomMgr/UserLogin.do HTTP/1.1" 500 2778

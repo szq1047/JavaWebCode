@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>登录界面</title>
+<style type="text/css">
+	.main{
+		position:relative;
+		left:40%;
+		top:200px;
+	}
+	.tb1{
+		width:300px;
+		height:250px;
+		border-color: blue;
+		border-width: 1px;
+		border-style: solid;
+	}
+</style>
+</head>
+<body>
+	<form method="post" action="UserLogin.do">
+	<div class="main">
+		<table class="tb1">
+			<tr>
+			<td colspan="2"><center><h2>房间管理系统登录</h2></center></td>
+			</tr>
+			<tr>
+			<td>用户名：</td>
+			<td><input type="text" name="name"/></td>
+			</tr>
+			<tr>
+			<td>密  码：</td>
+			<td><input type="password" name="password"/></td>
+			</tr>
+			<tr>
+				<td colspan="2"><center><input type="submit" value="登录"/></center></td>
+			</tr>
+		</table>
+	</div>
+	
+	</form>
+</body>
+</html>

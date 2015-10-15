@@ -1,0 +1,24 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" build-on-make="true" name="RoomMgr:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/RoomMgr_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="RoomMgr" />
+          <element id="dir-copy" path="D:/软件/apache-tomcat-7.0.59-windows-x86/apache-tomcat-7.0.59" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="$PROJECT_DIR$/WebContent/WEB-INF/lib/jstl-1.2.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/WebContent/WEB-INF/lib/ezmorph-1.0.6.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/WebContent/WEB-INF/lib/standard-1.1.2.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/WebContent/WEB-INF/lib/commons-lang-2.4.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/WebContent/WEB-INF/lib/json-lib-2.2.3-jdk15.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/WebContent/WEB-INF/lib/commons-logging-1.0.4.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/WebContent/WEB-INF/lib/commons-beanutils-1.8.0.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/WebContent/WEB-INF/lib/commons-collections-3.2.1.jar" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="RoomMgr/web/Web2" />
+    </root>
+  </artifact>
+</component>
